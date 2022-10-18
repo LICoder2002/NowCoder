@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NowCoder—星际密码", "NowCoder—星际密码.vcxproj", "{F0B94839-E57F-4694-8270-7F412B0731D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Debug|x64.ActiveCfg = Debug|x64
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Debug|x64.Build.0 = Debug|x64
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Debug|x86.Build.0 = Debug|Win32
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Release|x64.ActiveCfg = Release|x64
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Release|x64.Build.0 = Release|x64
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Release|x86.ActiveCfg = Release|Win32
+		{F0B94839-E57F-4694-8270-7F412B0731D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DE57BC-05F3-4391-99B0-2AB48EA6D24C}
+	EndGlobalSection
+EndGlobal
